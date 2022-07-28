@@ -8,3 +8,4 @@
 Mustafakc/Mustafakc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+As long as the KING walks, I'm on the trail, you'll see, the traces I left on the day you didn't see will be my memory for you
